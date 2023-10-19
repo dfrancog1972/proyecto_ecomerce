@@ -1,0 +1,7 @@
+.productos{
+    display: flex;
+    /*justify-content: space-around;*/
+}
+.productos div{
+    margin: 10px;
+}
